@@ -1,23 +1,21 @@
 # Crowdfunding Dashboard – Kickstarter Campaign Analysis
 
-An end-to-end data analysis project focused on evaluating Kickstarter crowdfunding campaigns to uncover success drivers and failure patterns.
+This dashboard analyzes Kickstarter crowdfunding projects to understand what drives campaign success and what leads to failure. It studies important factors such as funding goals, campaign categories, launch timing, and geographic location to identify meaningful patterns. The goal is to convert raw project data into clear insights that help improve planning and decision-making.
 
-Designed to transform raw campaign data into actionable business insights using structured KPI tracking and interactive visualizations.
+Why We Use Analytics in This Project
 
-Analyzes key performance dimensions including funding goals, pledged amounts, campaign categories, launch timing, and geographic distribution.
+To understand the difference between successful and failed campaigns.
 
-Identifies optimal funding goal ranges that maximize success probability and reduce campaign risk.
+To identify the most effective funding goal ranges.
 
-Compares category-wise performance to highlight high-converting and underperforming segments.
+To find high-performing categories with better success rates.
 
-Evaluates seasonal trends to determine the most effective campaign launch periods.
+To analyze time-based trends and choose better launch periods.
 
-Examines country-level performance to uncover regional crowdfunding adoption patterns.
+To examine regional patterns and country-level performance.
 
-Tracks core metrics such as total projects, success rate, total pledged amount, average funding goal, and funding gap analysis.
+To reduce financial risk by making data-driven decisions instead of assumptions.
 
-Provides strategic insights for entrepreneurs, investors, and campaign planners to make data-driven decisions.
+To support entrepreneurs in planning more realistic and strategic campaigns.
 
-Demonstrates skills in data cleaning, exploratory data analysis (EDA), KPI design, and dashboard storytelling.
-
-Focused on business impact: improving campaign planning accuracy, optimizing funding targets, and minimizing financial risk.
+Analytics helps transform data into actionable insights, enabling smarter strategies and improving the chances of crowdfunding success.
